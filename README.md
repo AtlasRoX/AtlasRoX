@@ -13,7 +13,7 @@
 
 <i>
 The universe is large.<br>
-I'm trying to understand a small part of it.
+Just trying to understand a small part of it.
 </i>
 
 </div>
