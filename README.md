@@ -12,8 +12,8 @@
 </h1>
 
 <i>
-The universe is large.<br>
-Just trying to understand a small part of it.
+Searching for meaning<br>
+through code, ideas, and curiosity.
 </i>
 
 </div>
