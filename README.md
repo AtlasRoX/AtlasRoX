@@ -16,4 +16,8 @@ Searching for meaning<br>
 through code, ideas, and curiosity.
 </i>
 
+.\
+
+[![AtlasRoX's Ghost Jungle](https://ghost-jungle.vercel.app/api/ghost-jungle?username=AtlasRoX)](https://ghost-jungle.vercel.app/?username=AtlasRoX)
+
 </div>
